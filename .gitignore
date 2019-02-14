@@ -1,0 +1,14 @@
+.ipynb_checkpoints/
+.*sw?
+__pycache__
+.pytest*
+*.pkl
+tmp
+tmp/
+.coverage
+.cache
+minichat.egg-info
+.DS_Store
+.DS_STORE
+mlruns
+.vscode
